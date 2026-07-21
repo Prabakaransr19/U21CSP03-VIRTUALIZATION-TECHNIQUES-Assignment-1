@@ -17,7 +17,7 @@ A new virtual machine was created in VMware Workstation, and Ubuntu was installe
 
 The required resources such as memory, processor cores, virtual disk space, and the Ubuntu ISO image were configured during the creation of the virtual machine.
 
-![Ubuntu Installation](<ass 3\Ubuntu installation.png>)
+![Ubuntu Installation](<ass 3/Ubuntu installation.png>)
 
 ---
 
@@ -36,7 +36,7 @@ touch sample.txt
 vi sample.txt
 ```
 
-![Working on Ubuntu](<ass 3\Ubuntu working.png>)
+![Working on Ubuntu](<ass 3/Ubuntu working.png>)
 
 ## 4. Windows Virtual Machine Installation
 
@@ -44,7 +44,7 @@ A second virtual machine was created in VMware Workstation for the Windows opera
 
 The required virtual hardware resources were allocated, and the Windows installation was completed using the appropriate installation image.
 
-![Windows installation](<ass 3\Windows installation.png>)
+![Windows installation](<ass 3/Windows installation.png>)
 
 ## 5. Working with Windows
 
@@ -52,6 +52,6 @@ After completing the installation, the Windows virtual machine was successfully 
 
 This demonstrated that multiple operating systems can be independently installed and operated as virtual machines on the same physical host.
 
-![Working on Windows](<ass 3\Windows working.png>)
+![Working on Windows](<ass 3/Windows working.png>)
 
 
