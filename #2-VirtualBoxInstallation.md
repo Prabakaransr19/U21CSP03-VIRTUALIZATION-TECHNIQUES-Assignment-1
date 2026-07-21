@@ -5,13 +5,13 @@
 
 Oracle VirtualBox was downloaded and installed on the host system. It provides the virtualization environment required to create and manage multiple virtual machines.
 
-![VirtualBox Installation](Ass 2\Virtual box Installation.png)
+![VirtualBox Installation](<Ass 2/Virtual box Installation.png>)
 
 ### VirtualBox Interface
 
 After successful installation, VirtualBox was launched and configured for creating the Ubuntu and CentOS virtual machines.
 
-![VirtualBox](Ass 2\Virtualbox.png)
+![VirtualBox](<Ass 2/Virtualbox.png>)
 
 ## 2. Ubuntu Virtual Machine Installation
 
@@ -19,7 +19,7 @@ A new virtual machine was created in VirtualBox and Ubuntu was installed as the 
 
 The required system resources such as RAM, processor cores, storage, and the Ubuntu ISO image were configured during VM creation.
 
-![Ubuntu Installation](Ass 2\Ubuntu installation.png)
+![Ubuntu Installation](<Ass 2/Ubuntu installation.png>)
 
 ## 3. Working with Ubuntu
 
@@ -35,7 +35,7 @@ cd Prabakaran
 touch sample.txt
 vi sample.txt 
 ```
-![UBUNTU Working](Ass 2\Working on ubuntu.png)
+![UBUNTU Working](<Ass 2/Working on ubuntu.png>)
 
 ## 4. CentOs Virtual Machine Installation
 
@@ -43,7 +43,7 @@ A new virtual machine was created in VirtualBox and CentOs was installed as the 
 
 The required system resources such as RAM, processor cores, storage, and the CentOs ISO image were configured during VM creation.
 
-![CentOs Installation](Ass 2\CentOs Installation.png)
+![CentOs Installation](<Ass 2/CentOs Installation.png>)
 
 ## 5. Working with CentOs
 
@@ -59,5 +59,5 @@ cd Prabakaran
 touch sample.txt
 vi sample.txt 
 ```
-![CentOs Working](Ass 2\working in CentOs.png)
+![CentOs Working](<Ass 2/working in CentOs.png>)
 
